@@ -1,7 +1,7 @@
 ![easyContour Logo](http://s12.picofile.com/file/8398691218/logo.png)
 
 # Download Links
-easyContour Setup v1.0.0 : [Download for windows](docs/CONTRIBUTING.md)
+easyContour Setup v1.0.0 : [Download for windows](http://s13.picofile.com/file/8398720868/easyContour_Setup_v1_0_0.exe.html)
 
 # Information
 An easy and fast application for building contour plots
