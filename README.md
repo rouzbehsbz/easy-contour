@@ -1,6 +1,8 @@
 # easyContour
 ![easyContour Logo](http://s12.picofile.com/file/8398691218/logo.png)
 
+easyContour Setup v1.0.0 : [Download for windows](docs/CONTRIBUTING.md)
+
 An easy and fast application for building contour plots
 just browse your data file as a .xlsx format , apply settings and build your contour plot !
 this application is completely FREE to use , so enjoy it !
