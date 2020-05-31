@@ -8,7 +8,7 @@ An easy and fast application for building contour plots
 just browse your data file as a .xlsx format , apply settings and build your contour plot !
 this application is completely FREE to use , so enjoy it !
 
-programmed by Rouzbeh Sabzehei , also tanks to Ms. Narges Zaker Tavassoli for providing contour plots for program testing.
+programmed by Rouzbeh Sabzehei , also thanks to Ms. Narges Zaker Tavassoli for providing contour plots for program testing.
 
 (Please use the "test contour plot.xlsx" file to see how you must write your data in an EXCEL file)
 
